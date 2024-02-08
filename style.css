@@ -232,6 +232,10 @@ footer {
     fill: white;
 }
 
+/* Restante do seu código CSS... */
+
+/* Restante do seu código CSS... */
+
 @media only screen and (max-width: 600px) {
     section {
         flex-direction: column;
@@ -253,6 +257,21 @@ footer {
     .card2,
     .card3,
     .card4 {
-        margin: 10px 0;
+        margin: 50px 0;
+    }
+
+    .instagram,
+    .twitter,
+    .github,
+    .discord {
+        width: 30px;
+        height: 30px;
+        margin-bottom: 0;
+    }
+
+    .card .content {
+        transform: translateY(0);
+        padding: 10px;
+        transform: translateX(0);
     }
 }
