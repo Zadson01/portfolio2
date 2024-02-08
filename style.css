@@ -232,10 +232,6 @@ footer {
     fill: white;
 }
 
-/* Restante do seu código CSS... */
-
-/* Restante do seu código CSS... */
-
 @media only screen and (max-width: 600px) {
     section {
         flex-direction: column;
